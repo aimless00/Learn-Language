@@ -1,0 +1,13 @@
+
+.language-text{
+    margin-left: 10px;
+    color: rgb(80, 74, 74);
+    font-weight: bold;
+    padding: 0 30px;
+}
+.language-text h3{
+    font-weight: bold;
+}
+.language-text h5 {
+    font-weight: bold;
+}

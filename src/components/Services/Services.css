@@ -1,0 +1,10 @@
+.services-section{
+    background-color: #78a6f0;
+}
+.service-display{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.services-section h1{
+    color: white;
+}

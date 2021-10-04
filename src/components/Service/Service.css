@@ -1,0 +1,18 @@
+
+.service{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+}
+.service-img img{
+    width: 400px;
+    height: 300px;
+    margin: 15px;
+}
+.service-text{
+    color: white;
+    padding: 10px;
+    margin-left: 20px;
+
+}

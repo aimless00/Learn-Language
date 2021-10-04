@@ -1,0 +1,10 @@
+
+.not-found-section h1{
+    font-weight: bolder;
+    margin-top: 20%;
+    color: red;
+
+}
+.not-found-section p{
+    color: red;
+}

@@ -1,0 +1,10 @@
+.language-section{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 10px;
+}
+.text{
+    color: rgb(80, 74, 74);
+    font-weight: bold;
+    padding: 50px;
+}

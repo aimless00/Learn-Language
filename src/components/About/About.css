@@ -1,0 +1,18 @@
+.about-section{
+    background-color: #78a6f0;
+}
+.about-text{
+    color: white;
+    margin: 50px;
+    padding: 25px;
+}
+.text-section{
+    width: 70%;
+    margin: auto;
+}
+.text-section h2{
+    font-weight: 600;
+}
+.text-section h3{
+    font-weight: 600;
+}

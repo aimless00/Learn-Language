@@ -1,0 +1,13 @@
+.contact-section{
+    background-color: #78a6f0;
+}
+.contact-text{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: space-between;
+    color: white;
+    font-weight: 500;
+    
+}
